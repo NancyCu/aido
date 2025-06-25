@@ -1,4 +1,5 @@
 # aido 🧠
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **"ai đó" = who’s there?"** (Vietnamese)  
 **"AI-Do" = AI does it.**
@@ -8,6 +9,14 @@ _Aido_ is a shell-based assistant that helps you generate and understand problem
 Built by **Michael Nguyen** with the help of **GPT**, `aido` is your personalized ToC tutor in the terminal.
 
 ---
+
+## 🖥️ Demo
+
+![Command](demo1.jpg)
+![ParseTree_Return_text](demo3.jpg)
+![RenderedParseTree](demo2.jpg)
+![Nodes](demo4.jpg)
+
 
 ## 🚀 What It Does
 
