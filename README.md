@@ -8,15 +8,15 @@ _Aido_ is a shell-based assistant that helps you generate and understand problem
 
 Built by **Michael Nguyen** with the help of **GPT**, `aido` is your personalized ToC tutor in the terminal.
 
----
 
 ## 🖥️ Demo
 
 ![Command](demo1.jpg)
 ![ParseTree_Return_text](demo3.jpg)
-![RenderedParseTree](demo2.jpg)
-![Nodes](demo4.jpg)
+![RenderedParseTreBe](demo2.jpg)
+![Nodes](demo4.jp
 
+---
 
 ## 🚀 What It Does
 
